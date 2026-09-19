@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!! I'm Asya Yıldız and a CS major. I'm currently a freshman at the Bilkent University. Some of my current hobbies include motion graphics, graphic design and coding in general. I aim to better myself at these hobbies of mine and improve my overall skills.
 
 <!--
 **asteriqx/asteriqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
